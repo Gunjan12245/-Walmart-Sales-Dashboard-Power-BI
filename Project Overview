@@ -1,0 +1,30 @@
+🛒 Walmart Sales Dashboard (Power BI)
+This project showcases a fully interactive Power BI dashboard built to analyze Walmart’s sales performance across time, geography, product categories, and shipping modes. It combines advanced visuals, filters, and KPIs to deliver actionable insights for business decision-makers.
+📌 Project Overview
+The dashboard includes:
+- 📊 Top KPIs: Total Sales, Average Sales, Total Profit, Total Quantity Sold
+- 📅 Time Analysis: Monthly and daily trends using line charts and slicers
+- 🗺️ Geographic Insights: Sales by city visualized on a map
+- 📦 Category Breakdown: Sub-category sales and quantity tables
+- 🚚 Shipping Mode Analysis: Quantity distribution via pie chart
+- 📈 Profit vs Discount vs Sales: Dual-axis chart for performance correlation
+🔍 Key KPIs & Solutions
+|  |  |  | 
+|  |  | SUM(Sales) | 
+|  |  | AVERAGE(Sales) | 
+|  |  | SUM(Profit) | 
+|  |  | SUM(Quantity) | 
+|  |  |  | 
+|  |  |  | 
+
+
+🛠️ Tools & Techniques
+- Power BI Desktop
+- DAX Measures: SUM, AVERAGE, COUNT, FILTER
+- Visuals: Line charts, bar charts, pie charts, map, tables
+- Slicers & Filters: Month, city, category, ship mode
+🎯 Outcome
+- Delivered a comprehensive dashboard for Walmart’s sales analytics
+- Enabled deep insights into regional performance, product trends, and shipping efficiency
+- Demonstrated BI reporting, KPI tracking, and storytelling through data
+
